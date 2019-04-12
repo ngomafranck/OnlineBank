@@ -1,0 +1,26 @@
+from{
+	text-align:center;
+	
+}
+
+h1,h2{
+	color:#3fbfa3;
+}
+label{
+	display:inline-block;
+	width:120px;
+}
+
+
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
